@@ -1,0 +1,32 @@
+[
+  {
+    "CourseId": 1,
+    "CourseName": "Emb1",
+    "TeacherName": ""
+  },
+  {
+    "CourseId": 2,
+    "CourseName": "Studieteknik",
+    "TeacherName": ""
+  },
+  {
+    "CourseId": 3,
+    "CourseName": "Database",
+    "TeacherName": ""
+  },
+  {
+    "CourseId": 4,
+    "CourseName": "GUI",
+    "TeacherName": ""
+  },
+  {
+    "CourseId": 5,
+    "CourseName": "Server",
+    "TeacherName": ""
+  },
+  {
+    "CourseId": 6,
+    "CourseName": "ComTek",
+    "TeacherName": ""
+  }
+]

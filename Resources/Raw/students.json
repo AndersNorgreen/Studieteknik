@@ -1,0 +1,302 @@
+[
+  {
+    "StudentId": 1,
+    "firstName": "Chance",
+    "lastName": "Becarra",
+    "Courses": [ "GUI", "Emb1" ]
+  },
+  {
+    "StudentId": 2,
+    "firstName": "Mohandas",
+    "lastName": "Pinchin",
+    "Courses": [ "Server", "Database", "GUI" ]
+  },
+  {
+    "StudentId": 3,
+    "firstName": "Shanda",
+    "lastName": "Kimbury",
+    "Courses": [ "Server", "Database" ]
+  },
+  {
+    "StudentId": 4,
+    "firstName": "Armin",
+    "lastName": "Fairbank",
+    "Courses": [ "Studieteknik", "GUI", "Emb1" ]
+  },
+  {
+    "StudentId": 5,
+    "firstName": "Thorndike",
+    "lastName": "Halgarth",
+    "Courses": [ "ComTek", "Studieteknik" ]
+  },
+  {
+    "StudentId": 6,
+    "firstName": "Wileen",
+    "lastName": "Groveham",
+    "Courses": [ "Studieteknik", "Server" ]
+  },
+  {
+    "StudentId": 7,
+    "firstName": "Maynord",
+    "lastName": "Dukelow",
+    "Courses": [ "ComTek", "Database", "GUI" ]
+  },
+  {
+    "StudentId": 8,
+    "firstName": "Hyacinthie",
+    "lastName": "Forder",
+    "Courses": [ "ComTek" ]
+  },
+  {
+    "StudentId": 9,
+    "firstName": "Katerine",
+    "lastName": "Harget",
+    "Courses": [ "ComTek", "Database" ]
+  },
+  {
+    "StudentId": 10,
+    "firstName": "Joete",
+    "lastName": "Drohane",
+    "Courses": [ "Server", "Emb1" ]
+  },
+  {
+    "StudentId": 11,
+    "firstName": "Lynett",
+    "lastName": "Mein",
+    "Courses": [ "ComTek", "Database", "GUI" ]
+  },
+  {
+    "StudentId": 12,
+    "firstName": "Fransisco",
+    "lastName": "Slate",
+    "Courses": [ "ComTek", "GUI", "GUI" ]
+  },
+  {
+    "StudentId": 13,
+    "firstName": "Delphinia",
+    "lastName": "Brimelow",
+    "Courses": [ "Emb1", "Studieteknik" ]
+  },
+  {
+    "StudentId": 14,
+    "firstName": "Clari",
+    "lastName": "Coombe",
+    "Courses": [ "Studieteknik", "Server" ]
+  },
+  {
+    "StudentId": 15,
+    "firstName": "Philis",
+    "lastName": "Stapley",
+    "Courses": [ "GUI", "Database", "Server" ]
+  },
+  {
+    "StudentId": 16,
+    "firstName": "Malcolm",
+    "lastName": "Hambrook",
+    "Courses": [ "GUI", "ComTek" ]
+  },
+  {
+    "StudentId": 17,
+    "firstName": "Florian",
+    "lastName": "Rudwell",
+    "Courses": [ "Studieteknik", "Server" ]
+  },
+  {
+    "StudentId": 18,
+    "firstName": "Dorise",
+    "lastName": "Louden",
+    "Courses": [ "Studieteknik", "Database" ]
+  },
+  {
+    "StudentId": 19,
+    "firstName": "Von",
+    "lastName": "Horlock",
+    "Courses": [ "Studieteknik", "Database", "Server" ]
+  },
+  {
+    "StudentId": 20,
+    "firstName": "Cynthy",
+    "lastName": "Doree",
+    "Courses": [ "GUI", "Emb1", "Database" ]
+  },
+  {
+    "StudentId": 21,
+    "firstName": "Robbie",
+    "lastName": "Ruffle",
+    "Courses": [ "ComTek", "Database", "Server" ]
+  },
+  {
+    "StudentId": 22,
+    "firstName": "Joeann",
+    "lastName": "Cicullo",
+    "Courses": [ "ComTek", "GUI" ]
+  },
+  {
+    "StudentId": 23,
+    "firstName": "Kimberlyn",
+    "lastName": "Vasquez",
+    "Courses": [ "GUI", "Emb1" ]
+  },
+  {
+    "StudentId": 24,
+    "firstName": "Bentley",
+    "lastName": "Trumble",
+    "Courses": [ "ComTek", "Database" ]
+  },
+  {
+    "StudentId": 25,
+    "firstName": "Anatol",
+    "lastName": "Darridon",
+    "Courses": [ "Studieteknik", "Database", "Emb1" ]
+  },
+  {
+    "StudentId": 26,
+    "firstName": "Rosella",
+    "lastName": "Allport",
+    "Courses": [ "Database", "Studieteknik" ]
+  },
+  {
+    "StudentId": 27,
+    "firstName": "Gretna",
+    "lastName": "Warcop",
+    "Courses": [ "Server", "Database" ]
+  },
+  {
+    "StudentId": 28,
+    "firstName": "Constantine",
+    "lastName": "Parnham",
+    "Courses": [ "Server", "ComTek" ]
+  },
+  {
+    "StudentId": 29,
+    "firstName": "Yettie",
+    "lastName": "Olechnowicz",
+    "Courses": [ "Emb1", "ComTek" ]
+  },
+  {
+    "StudentId": 30,
+    "firstName": "Orion",
+    "lastName": "McWhannel",
+    "Courses": [ "ComTek", "Database" ]
+  },
+  {
+    "StudentId": 31,
+    "firstName": "Yank",
+    "lastName": "Bubbear",
+    "Courses": [ "Database", "ComTek" ]
+  },
+  {
+    "StudentId": 32,
+    "firstName": "Salem",
+    "lastName": "Loveredge",
+    "Courses": [ "Database" ]
+  },
+  {
+    "StudentId": 33,
+    "firstName": "Bailie",
+    "lastName": "Clue",
+    "Courses": [ "ComTek", "ComTek" ]
+  },
+  {
+    "StudentId": 34,
+    "firstName": "Lorant",
+    "lastName": "Joselovitch",
+    "Courses": [ "Studieteknik" ]
+  },
+  {
+    "StudentId": 35,
+    "firstName": "Natalee",
+    "lastName": "Romeuf",
+    "Courses": [ "ComTek", "Studieteknik", "Emb1" ]
+  },
+  {
+    "StudentId": 36,
+    "firstName": "Tallia",
+    "lastName": "Selby",
+    "Courses": [ "Studieteknik", "Emb1" ]
+  },
+  {
+    "StudentId": 37,
+    "firstName": "Herold",
+    "lastName": "Kinloch",
+    "Courses": [ "Studieteknik", "Emb1" ]
+  },
+  {
+    "StudentId": 38,
+    "firstName": "Maryjo",
+    "lastName": "Monckman",
+    "Courses": [ "Server", "GUI" ]
+  },
+  {
+    "StudentId": 39,
+    "firstName": "Ransom",
+    "lastName": "Reightley",
+    "Courses": [ "Server", "Studieteknik" ]
+  },
+  {
+    "StudentId": 40,
+    "firstName": "Gay",
+    "lastName": "Spurgeon",
+    "Courses": [ "Database", "ComTek" ]
+  },
+  {
+    "StudentId": 41,
+    "firstName": "Thorin",
+    "lastName": "Wroath",
+    "Courses": [ "GUI", "Emb1" ]
+  },
+  {
+    "StudentId": 42,
+    "firstName": "Fernanda",
+    "lastName": "Richie",
+    "Courses": [ "Server" ]
+  },
+  {
+    "StudentId": 43,
+    "firstName": "Liesa",
+    "lastName": "Voff",
+    "Courses": [ "GUI", "Emb1" ]
+  },
+  {
+    "StudentId": 44,
+    "firstName": "Sarette",
+    "lastName": "Rudeyeard",
+    "Courses": [ "ComTek", "Studieteknik", "Database", "Server" ]
+  },
+  {
+    "StudentId": 45,
+    "firstName": "Lavena",
+    "lastName": "Felipe",
+    "Courses": [ "Database", "GUI", "Server" ]
+  },
+  {
+    "StudentId": 46,
+    "firstName": "Berta",
+    "lastName": "Gudge",
+    "Courses": [ "ComTek", "Studieteknik" ]
+  },
+  {
+    "StudentId": 47,
+    "firstName": "Gale",
+    "lastName": "Sawkin",
+    "Courses": [ "Studieteknik", "GUI" ]
+  },
+  {
+    "StudentId": 48,
+    "firstName": "Neville",
+    "lastName": "Monan",
+    "Courses": [ "Studieteknik", "GUI", "Database" ]
+  },
+  {
+    "StudentId": 49,
+    "firstName": "Seline",
+    "lastName": "Sleet",
+    "Courses": [ "Studieteknik", "GUI", "Server" ]
+  },
+  {
+    "StudentId": 50,
+    "firstName": "Caleb",
+    "lastName": "Dufaire",
+    "Courses": [ "ComTek", "Studieteknik", "Emb1" ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "TeacherId": 1,
+    "TeacherName": "Hans Henrik Danielsen"
+  },
+  {
+    "TeacherId": 2,
+    "TeacherName": "Lars Larsen"
+  },
+  {
+    "TeacherId": 3,
+    "TeacherName": "Fatima Aud"
+  },
+  {
+    "TeacherId": 4,
+    "TeacherName": "Lone Svendsen"
+  },
+  {
+    "TeacherId": 5,
+    "TeacherName": "Claus Svendsen"
+  },
+  {
+    "TeacherId": 6,
+    "TeacherName": "Laura Gottfred"
+  }
+]

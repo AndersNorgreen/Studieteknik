@@ -48,4 +48,16 @@
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <None Remove="Resources\Raw\courses.json" />
+	  <None Remove="Resources\Raw\students.json" />
+	  <None Remove="Resources\Raw\teachers.json" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="ViewCourse.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	</ItemGroup>
+
 </Project>
